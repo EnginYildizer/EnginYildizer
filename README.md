@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @EnginYildizer
-- 👀 I’m interested in SQL, C#, Unreal Engine
-- 🌱 I’m currently learning SQL, C#, Unreal Engine
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in html-css, java, javascript
+- 🌱 I’m currently learning html-css, java, javascript
 
 <!---
 EnginYildizer/EnginYildizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
